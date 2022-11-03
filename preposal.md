@@ -4,15 +4,14 @@
 
 Molecular clock website that animates a timeline of natural history
 Website listing out the next animals to go extinct, how long it will take, and the primary causes
-    Kind of like the IUCN Red List
+    -> Kind of like the IUCN Red List
 Website that warns about the 6th mass extinction, and giving information about the 5th
-Website that goes into Valorant agents and gives the best agent per map
+Discord mod that goes into Valorant agents and gives the best agent per map
 All of these... but in app form?
 An app that looks at real-time net production of carbon emissions and real-time contributors towards global climate change
 
 ## If you plan to collaborate with one or two classmates, what are their names?
-
-I am not sure yet
+Yashi Patel
 
 ## Do you have any questions of your own?
 
